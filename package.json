@@ -1,0 +1,32 @@
+{
+    "name": "@markaronin/json-db",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "author": "Jefferson Roylance <jmarkroylance@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^4.3.2",
+        "@typescript-eslint/eslint-plugin": "^4.28.0",
+        "@typescript-eslint/parser": "^4.28.0",
+        "eslint": "^7.29.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^3.4.0",
+        "prettier": "^2.3.1"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Markaronin/json-db.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Markaronin/json-db/issues"
+    },
+    "homepage": "https://github.com/Markaronin/json-db#readme",
+    "description": "",
+    "dependencies": {
+        "@types/node": "^15.12.1"
+    }
+}
